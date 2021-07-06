@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(113, 165, 243);
+  width: 100%;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img{
+  width: 60%;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+h1{
+  text-transform: uppercase;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #4f4f4f;
+  padding: 8%;
+  text-align: center;
+}
+
+.user-data{
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 15%;
+}
+
+.follower-data{
+  width: 50%;
+  margin-bottom: 15%;
+  background-color: rgb(218, 255, 196);
+  border-radius: 10%;
+}
+
+
+
